@@ -1,4 +1,4 @@
-import mmh3
+import mmh3, math, random
 
 class BloomFilter():
     SALT_SIZE = 5
